@@ -9,4 +9,6 @@ Languages of choice personally:
 - Rust
 - JavaScript
 
+![You suck](/spiderman.jpg)
+
 <sub>Good luck contacting me. I'm unreachable, probably because I don't like you.</sub>
