@@ -1,4 +1,4 @@
-# 404 not found
+# 404 Not Found
 
 Just your local neighbourhood developer.
 
