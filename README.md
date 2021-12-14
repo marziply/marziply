@@ -11,4 +11,4 @@ Languages of choice personally:
 
 ![You suck](/spiderman.jpg)
 
-<sub>Good luck contacting me. I'm unreachable, probably because I don't like you.</sub>
+<sub>Business enquiries [here](careers@marziply.dev).</sub>
