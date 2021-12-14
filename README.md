@@ -11,4 +11,4 @@ Languages of choice personally:
 
 ![You suck](/spiderman.jpg)
 
-<sub>Business enquiries [here](careers@marziply.dev).</sub>
+<sub>Business enquiries [here](mailto:careers@marziply.dev).</sub>
