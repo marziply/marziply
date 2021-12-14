@@ -1,6 +1,6 @@
 # 404 Not Found
 
-Just your local neighbourhood developer.
+Just your local neighbourhood developer with a kickass [sidekick](/cat.jpg).
 
 Professionally working with [Node.js](https://nodejs.org/) and [Vue.js](https://vuejs.org/).
 
