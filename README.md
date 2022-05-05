@@ -2,13 +2,13 @@
 
 Just your local neighbourhood developer with a kickass [sidekick](https://raw.githubusercontent.com/marziply/marziply/master/cat.jpg).
 
-Professionally working with [Node.js](https://nodejs.org/) and [Vue.js](https://vuejs.org/).
+Professionally working with [Go](https://go.dev) and [Rust](https://rust-lang.org).
 
 Languages of choice personally:
 - C/C++
 - Rust
 - JavaScript
 
-![You suck](/spiderman.jpg)
+![Spiderman](/spiderman.jpg)
 
 <sub>Business enquiries [here](mailto:careers@marziply.dev).</sub>
