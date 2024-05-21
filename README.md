@@ -6,4 +6,4 @@ Professionally working with [Rust](https://rust-lang.org).
 
 ![Spiderman](/spiderman.jpg)
 
-<sub>Business enquiries [here](mailto:careers@marziply.dev).</sub>
+<sub>Business enquiries [here](mailto:marziply@gmail.com).</sub>
