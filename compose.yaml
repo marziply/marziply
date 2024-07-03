@@ -1,0 +1,23 @@
+services:
+  app:
+    container_name: app
+    image: caddy
+    ports:
+      - 8787:80
+    configs:
+      - source: caddy
+        target: /etc/caddy/Caddyfile
+    volumes:
+      - ./:/srv
+configs:
+  caddy:
+    content: |
+      {
+        auto_https off
+      }
+      :80 {
+        root * /srv
+        file_server {
+          hide .git
+        }
+      }

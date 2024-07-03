@@ -1,6 +1,7 @@
 # 404 Not Found
 
-Just your local neighbourhood developer with a kickass [sidekick](https://raw.githubusercontent.com/marziply/marziply/master/cat.jpg).
+Just your local neighbourhood developer with a kickass
+[sidekick](https://raw.githubusercontent.com/marziply/marziply/master/cat.jpg).
 
 Professionally working with [Rust](https://rust-lang.org).
 
